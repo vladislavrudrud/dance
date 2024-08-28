@@ -1,0 +1,6 @@
+User-agent: *
+Sitemap: http://ялюблю.танцывкостроме.рф/sitemap.xml
+Disallow: /cgi-bin
+Disallow: /js
+Disallow: /css
+Disallow: /images/

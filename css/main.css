@@ -1,0 +1,20 @@
+.stickyeah{
+    z-index: 9999;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+#qbootstrap-offcanvas{
+    position: relative;
+    top: -3px;
+}
+.stickyeah #qbootstrap-offcanvas {
+    background: none;
+    opacity: 1;
+    padding-bottom: 4px;
+}
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
